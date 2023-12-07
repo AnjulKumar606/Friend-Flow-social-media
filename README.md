@@ -3,6 +3,7 @@
 Friend Flow is a social media application built to connect people and foster meaningful interactions. This document provides an overview of the app, its technologies, and instructions on how to set it up.
 
 **NOTE:-While Registering/Logging in please wait for 2 minutes for the backend server to start**
+
 Check out the [Live Website](https://socialmediaapp-7up6.onrender.com/)
 ## Table of Contents
 
